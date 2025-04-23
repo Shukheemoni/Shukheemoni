@@ -1,6 +1,6 @@
 # Hi, I'm Nabiha Nawshin Shukheemoni
 
-Welcome to my GitHub profile! I'm a **Data Science** student at **Memorial University of Newfoundland**, pursuing a **Minor in Business Administration**. I focus on **Machine Learning** and **Artificial Intelligence**, combining technical skills with business insights.
+Welcome to my GitHub profile! I'm a **Data Science** student at **Memorial University of Newfoundland**, also pursuing a **Minor in Business Administration**. I focus on **Machine Learning** and **Artificial Intelligence**, combining technical skills with business insights.
 
 ## About Me
 - 🎯 **Current Focus**: Statistical modeling, ML algorithms, and OOP in Python & R  
