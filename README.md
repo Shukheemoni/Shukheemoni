@@ -26,4 +26,5 @@ Welcome to my GitHub profile! I'm a **Data Science** student at **Memorial Unive
 - **Email**: nabihanawshin@gmail.com
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabiha-shukheemoni&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shukheemoni&show_icons=true&theme=tokyonight)
+
