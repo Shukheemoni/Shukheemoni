@@ -11,15 +11,21 @@ Welcome to my GitHub profile! I'm a **Data Science** student at **Memorial Unive
 - **Languages**: Python, R  
 - **Libraries**: pandas, NumPy, scikit-learn, ggplot2  
 - **Tools**: Git, RStudio, Jupyter Notebooks, LaTeX, Microsoft Excel, Microsoft PowerPoint  
+### 🔹 Completed Projects
+- **House Price Prediction (End-to-End ML Pipeline)**  
+  Built a fully **production-ready ML pipeline** to predict house prices using the Ames Housing dataset. The project covers **data preprocessing, feature engineering, model comparison, hyperparameter tuning (XGBoost), cross-validation, and pipeline serialization**.  
+  **Skills & Tools:** Python, scikit-learn, XGBoost, RandomizedSearchCV, Pipeline, ColumnTransformer, joblib, RMSE evaluation  
+  **Outcome:** Deployed a **leakage-free, tuned ML model** and generated **insights for feature importance and predictions**.
 
-## Projects (Ongoing)
+- **Student Spending Analysis**  
+  Analyzed student expense patterns using R and visualized trends to identify cost-saving opportunities.  
+  **Skills:** Data wrangling, ggplot2 visualizations, statistical analysis  
+
+## Course (Completed) 
 - **Google Machine Learning Crash Course**: Learning core ML concepts and TensorFlow basics.  
 - **Andrew Ng’s Machine Learning Course (Coursera)**: Studying supervised learning, neural networks, and regularization.  
 - **Kaggle Competitions**: Applying data cleaning, model building, and visualization skills.
 
-### Personal Projects (Upcoming)
-- **Student Spending Insights**: Analyzing student expenses with R and visualizing data trends.
-- **AI Book Recommender**: Building a book recommendation system using collaborative filtering.
 
 ## Let's Connect
 - **LinkedIn**: [linkedin.com/in/nabiha-nawshin-shukheemoni-18731020b](http://linkedin.com/in/nabiha-nawshin-shukheemoni-18731020b)  
