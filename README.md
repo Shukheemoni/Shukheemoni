@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a **Data Science** student at **Memorial Unive
 
 ## About Me
 - 🎯 **Current Focus**: Statistical modeling, ML algorithms, and OOP in Python & R  
-- 🎓 **Expected Graduation**: April 2026  
+- 🎓 **Expected Graduation**: December 2026  
 - ✍️ **Hobbies**: Writing stories, exploring AI tools, and using Excel  
 
 ## Tech Stack
